@@ -1,5 +1,4 @@
 name: Infra Deployment (Terraform)
-
 on:
   push:
     paths:
