@@ -12,12 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-<<<<<<< HEAD
          working-directory: ./infra
-
-=======
-        working-directory: ./infra
->>>>>>> ef821fc856e29fce5e4f6b528e04d49662701ca0
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
