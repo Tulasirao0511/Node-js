@@ -50,6 +50,6 @@ resource "aws_instance" "notes_app" {
               EOF
 
   tags = {
-    Name = "ReactNativeNotesApp2"
+    Name = "ReactNativeNotesApp"
   }
 }
