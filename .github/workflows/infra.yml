@@ -4,7 +4,7 @@ on:
     paths:
       - 'infra/**'
     branches:
-      - main
+      - master
 
 jobs:
   terraform:
